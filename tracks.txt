@@ -1,0 +1,35 @@
+Tha	1	125	Ambient
+Pulsewidth	1	543	Ambient
+Girl	2	543	Rock
+Don't Let Me Down	2	290	Rock
+Billie Jean	3	552	Pop
+Smooth Criminal	3	412	Pop
+Beat It	3	881	Pop
+Norton Commander	4	992	Indie_Pop
+Pierre	4	771	Indie_Pop
+Something in Water	4	661	Indie_Pop
+Thailwhip Revisited	4	601	Indie_Pop
+Genesis	5	651	Electronic
+1992	6	162	Ambient
+AVA	6	826	Ambient
+Liquid	6	994	Ambient
+Oscillation	6	429	Ambient
+Come As You Are	7	631	Rock
+Lithium	7	881	Rock
+Heart-Shaped Box	7	354	Rock
+Dumb	7	457	Rock
+Questions	8	167	Rap
+Gas Drawls	8	241	Rap
+Let Me Watch	8	315	Rap
+All Caps	8	281	Rap
+Empire Ants	9	441	Rock
+DARE	9	331	Rock
+Stylo	9	344	Rock
+Dirty Harry	9	441	Rock
+Daydream	10	621	Electronic
+Summer Night	10	516	Electronic
+Cruiser	10	261	Electronic
+New Space Music	11	1084	Ambient
+Discreet Music	11	2193	Ambient
+Watermusic I	12	4021	Ambient
+Watermusic II	12	4351	Ambient
